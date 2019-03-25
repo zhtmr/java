@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\ncs2019\java_work\.metadata\.plugins\org.eclipse.jdt.core
+563236834.index
+4219279280.index
+7085586.index
