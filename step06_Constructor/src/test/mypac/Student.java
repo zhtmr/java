@@ -1,7 +1,7 @@
 package test.mypac;
 
 public class Student {
-	public String name;  // 호출할 때마다 다른 이름 받기위해 null
+	public String name;  // 호출할 때마다 다른 이름 받기위해 null로 생성
 	
 	// 1.default 생성자(따로 정의하지 않아도 new로 호출됨, 생성 시에 준비작업 가능)
 	public Student() {
