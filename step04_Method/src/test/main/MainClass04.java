@@ -12,7 +12,7 @@ public class MainClass04 {
 	 * 	메소드 내에서의 동작 : 전달받은 2개 정수의 합 출력
 	 */
 	public static void showSum(int num1,int num2) {
-		int sum=num1+num2;
+		int sum=num1+num2;  // 지역변수 선언
 		System.out.println("두 수의 합:"+sum);
 	}
 }
